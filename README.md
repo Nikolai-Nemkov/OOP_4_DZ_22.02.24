@@ -57,6 +57,15 @@ https://github.com/Nikolai-Nemkov/OOP_4_DZ_22.02.24/blob/main/TeacherServiceComp
 
 ### TeacherView
 
+https://github.com/Nikolai-Nemkov/OOP_4_DZ_22.02.24/blob/main/TeacherView.java
+
+### Result:
+
+Student{studentId=1   User{firstName='Bob', secondName='Bob1', lastName='Bob2'}}
+Student{studentId=2   User{firstName='Alex', secondName='Alex1', lastName='Alex2'}}
+Student{studentId=3   User{firstName='Goga', secondName='Goga1', lastName='Goga2'}}
+Student{studentId=4   User{firstName='bul', secondName='bul1', lastName='bul2'}}
+
 
        
 
