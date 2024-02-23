@@ -41,6 +41,7 @@ https://github.com/Nikolai-Nemkov/OOP_4_DZ_22.02.24/blob/main/StudentGroupIterat
 
 ## StudentGroupService
 
+https://github.com/Nikolai-Nemkov/OOP_4_DZ_22.02.24/blob/main/StudentGroupService.java
 
 ## StudentView
 
