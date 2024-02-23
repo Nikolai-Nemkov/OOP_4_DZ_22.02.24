@@ -24,11 +24,11 @@
 
 ## Main
 
-       https://github.com/Nikolai-Nemkov/OOP_4_DZ_22.02.24/blob/main/Main.java
+https://github.com/Nikolai-Nemkov/OOP_4_DZ_22.02.24/blob/main/Main.java
 
 ## Student
 
-       https://github.com/Nikolai-Nemkov/OOP_4_DZ_22.02.24/blob/main/Student.java
+https://github.com/Nikolai-Nemkov/OOP_4_DZ_22.02.24/blob/main/Student.java
 
 
 ## StudentGroup
@@ -37,6 +37,7 @@ https://github.com/Nikolai-Nemkov/OOP_4_DZ_22.02.24/blob/main/StudentGroup.java
 
 ## StudentGroupIterator
 
+https://github.com/Nikolai-Nemkov/OOP_4_DZ_22.02.24/blob/main/StudentGroupIterator.java
 
 ## StudentGroupService
 
