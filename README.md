@@ -22,37 +22,38 @@
 
         Формат сдачи: ссылка на гитхаб проект
 
-## Main
+### Main
 
 https://github.com/Nikolai-Nemkov/OOP_4_DZ_22.02.24/blob/main/Main.java
 
-## Student
+### Student
 
 https://github.com/Nikolai-Nemkov/OOP_4_DZ_22.02.24/blob/main/Student.java
 
 
-## StudentGroup
+### StudentGroup
 
 https://github.com/Nikolai-Nemkov/OOP_4_DZ_22.02.24/blob/main/StudentGroup.java
 
-## StudentGroupIterator
+### StudentGroupIterator
 
 https://github.com/Nikolai-Nemkov/OOP_4_DZ_22.02.24/blob/main/StudentGroupIterator.java
 
-## StudentGroupService
+### StudentGroupService
 
 https://github.com/Nikolai-Nemkov/OOP_4_DZ_22.02.24/blob/main/StudentGroupService.java
 
-## StudentView
+### StudentView
+
+https://github.com/Nikolai-Nemkov/OOP_4_DZ_22.02.24/blob/main/StudentView.java
+
+### TeacherService
 
 
-## TeacherService
+### TeacherServiceComparator
 
 
-## TeacherServiceComparator
-
-
-## TeacherView
+### TeacherView
 
        
 
